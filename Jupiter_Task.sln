@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jupiter_Task", "Jupiter_Task\Jupiter_Task.csproj", "{96AC870E-4C8F-43F1-B6FD-F18ACCEFDFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AC870E-4C8F-43F1-B6FD-F18ACCEFDFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AC870E-4C8F-43F1-B6FD-F18ACCEFDFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AC870E-4C8F-43F1-B6FD-F18ACCEFDFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AC870E-4C8F-43F1-B6FD-F18ACCEFDFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05299D08-1388-48A0-8324-656E11DF3DB0}
+	EndGlobalSection
+EndGlobal
